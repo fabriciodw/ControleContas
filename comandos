@@ -1,0 +1,19 @@
+    yarn create react-app dtmoney --template typescript  -- cria um projeto/ nome / template typescript --
+
+    instalar uma dependencia de css in JS:
+        yarn add styled-components
+        yarn add @types/styled-components -D
+
+
+    api ficticia
+        yarn add miragejs
+
+    axios - api para lidar com as requisições e tambem d para colocar regras:
+        yarn add axios
+
+    modal react
+        yarn add react-modal
+        yarn add @types/react-modal -D
+
+    funções java script para manipular cores.
+        yarn add polished
